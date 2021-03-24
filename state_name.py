@@ -84,18 +84,9 @@ def census_and_regions():
     'D9':['HI','AK']
     }
     
-    region_merge = {
-    'D1':['VT','RI'],
-    'D4':['ND','SD'],
-    'D8':['MT','WY'],
-    }
-    
-    region_sep= {
-    'D9':['HI','AK']
-    }
 
     
-    return [state_census, region, region_merge, region_sep]
+    return [state_census, region]
 
 
 
