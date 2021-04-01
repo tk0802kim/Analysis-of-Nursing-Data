@@ -1,3 +1,5 @@
+This is a work in progress to learn, practice, and showcase my data science skills. Thanks for visiting!
+
 # Analysis-of-Nursing-Data
 
 How can we attract more registered nurses to our state/city/institution? What can we do with availiable data to give us actionable insights?
