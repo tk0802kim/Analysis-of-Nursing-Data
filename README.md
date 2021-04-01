@@ -1,5 +1,7 @@
 # Analysis-of-Nursing-Data
 
+How can we attract more registered nurses to our state/city/institution? What can we do with availiable data to give us actionable insights?
+
 This project aims to develop insights into the nursing workforce, primarily using the 2018 NSSRN survey data, along with other publicly available data. The survey can be downloaded from [here](https://data.hrsa.gov/DataDownload/NSSRN/GeneralPUF18/NSSRN2018_SAS_encoded_package.zip).
 
 The Jupyter notebook file [nursing_analysis.ipynb](https://github.com/tk0802kim/Analysis-of-Nursing-Data/blob/master/nursing_analysis.ipynb) contains the results and findings. To run this on the local machine, download then entire project, download and unzip the survey data in the project folder, and run the Jupyter notebook.
