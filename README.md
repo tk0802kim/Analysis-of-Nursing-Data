@@ -19,11 +19,11 @@ The Jupyter notebook file [nursing_analysis.ipynb](https://github.com/tk0802kim/
 - Nursing salary data scrap and analysis
 - Baysian approach to quantifying the attractiveness of a state to nurse
 - Linear regression for the said attractiveness with bootstrapping
+- GBM classification of survery data, in place of random forest
 
 
 ### Things done, but not documented yet:
 
-- Random forest classification of survey data
 
 ### Things to do:
 
