@@ -24,10 +24,13 @@ The Jupyter notebook file [nursing_analysis.ipynb](https://github.com/tk0802kim/
 
 ### Things done, but not documented yet:
 
+- Oversampling procedures
+- ANN
 
 ### Things to do:
 
-- SVM, ANN, and other methods of boosting the power of predictive model
+- GAN
+- SVM, and other methods of boosting the power of predictive model
 - Collection of other covariates for the attractiveness prediction model
 - Multiple linear regression, with SINDy-like approach to linearize the covariates
 - Apply other methods of machine learning to the attractiveness model
