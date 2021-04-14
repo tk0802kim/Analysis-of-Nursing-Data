@@ -1,4 +1,7 @@
-This is a work in progress to learn, practice, and showcase my data science skills. Thanks for visiting!
+Thanks for visiting! This is a work in progress to learn, practice, and showcase my data science skills.
+
+It is also a very personal subject. My mom used to be a nurse, and the nurse shortage in the early 2000's was the reason why my family was able to come to the US.
+
 
 # Analysis-of-Nursing-Data
 
@@ -10,7 +13,7 @@ The Jupyter notebook file [nursing_analysis.ipynb](https://github.com/tk0802kim/
 
 
 ### Dependencies:
-  Pandas, Numpy, scikit-learn, MatPlotLib, pyreadstat, Seaborn, tqdm, SciPy, pickle, dill, Spacy, PyMC3, bs4, nordvpn_switcher
+  Pandas, Numpy, scikit-learn, MatPlotLib, pyreadstat, Seaborn, tqdm, SciPy, pickle, dill, Spacy, PyMC3, bs4, nordvpn_switcher, imblearn, tensorflow, xgboost
 
 ### Things done and documented:
 
@@ -20,14 +23,14 @@ The Jupyter notebook file [nursing_analysis.ipynb](https://github.com/tk0802kim/
 - Baysian approach to quantifying the attractiveness of a state to nurse
 - Linear regression for the said attractiveness with bootstrapping
 - GBM classification of survery data, in place of random forest
-
+- Oversampling procedures
 
 ### Things done, but not documented yet:
-
+- ANN
+- SVC
+- GAN
 
 ### Things to do:
-
-- SVM, ANN, and other methods of boosting the power of predictive model
 - Collection of other covariates for the attractiveness prediction model
 - Multiple linear regression, with SINDy-like approach to linearize the covariates
 - Apply other methods of machine learning to the attractiveness model
