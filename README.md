@@ -1,7 +1,6 @@
-Thanks for visiting! This is a work in progress to learn, practice, and showcase my data science skills.
+Nursing is a very personal subject. My mom used to be a nurse, and the nurse shortage in the early 2000's was the reason why my family was able to come to the US. So I chose to analyze nursing data to learn, practice, and showcase my data science skills.
 
-It is also a very personal subject. My mom used to be a nurse, and the nurse shortage in the early 2000's was the reason why my family was able to come to the US.
-
+Thanks for visiting!
 
 # Analysis-of-Nursing-Data
 
@@ -24,13 +23,12 @@ The Jupyter notebook file [nursing_analysis.ipynb](https://github.com/tk0802kim/
 - Linear regression for the said attractiveness with bootstrapping
 - GBM classification of survery data, in place of random forest
 - Oversampling procedures
-
+- Collection of other covariates for the attractiveness prediction model
+- Multiple linear regression, with SINDy-like approach to linearize the covariates
+- 
 ### Things done, but not documented yet:
 - ANN
 - SVC
 - GAN
 
 ### Things to do:
-- Collection of other covariates for the attractiveness prediction model
-- Multiple linear regression, with SINDy-like approach to linearize the covariates
-- Apply other methods of machine learning to the attractiveness model
