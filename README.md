@@ -2,6 +2,10 @@ Nursing is a very personal subject. My mom used to be a nurse, and the nurse sho
 
 Thanks for visiting!
 
+Full original analysis : [nursing_analysis.ipynb](https://github.com/tk0802kim/Analysis-of-Nursing-Data/blob/master/nursing_analysis.ipynb)
+
+Prediction models only (cleaned up code) : [prediction_models.ipynb](https://github.com/tk0802kim/Analysis-of-Nursing-Data/blob/master/prediction_models.ipynb)
+
 # Analysis-of-Nursing-Data
 
 How can we attract more registered nurses to our state/city/institution? What can we do with availiable data to give us actionable insights?
